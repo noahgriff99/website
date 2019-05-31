@@ -83,6 +83,11 @@ p {
   margin-bottom: 1rem;
 }
 
+.container d-flex align-items-center flex-column{
+  
+  background-color:f4424e;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
@@ -4067,9 +4072,9 @@ input[type="button"].btn-block {
   font-size: 16px;
 }
 
-/*.nav li {
+.nav li {
   display:inline-block;
-}*/
+}
 
 .nav-link {
   display: block;
