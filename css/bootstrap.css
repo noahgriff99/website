@@ -4067,9 +4067,9 @@ input[type="button"].btn-block {
   font-size: 16px;
 }
 
-.nav li {
+/*.nav li {
   display:inline-block;
-}
+}*/
 
 .nav-link {
   display: block;
