@@ -67,6 +67,10 @@ body {
   outline: 0 !important;
 }
 
+.container d-flex align-items-center flex-column{
+  color:f4424e;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -81,11 +85,6 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-}
-
-.container d-flex align-items-center flex-column{
-  
-  background-color:f4424e;
 }
 
 abbr[title],
