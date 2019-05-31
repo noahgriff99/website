@@ -16,6 +16,11 @@ body {
 	background-image: radial-gradient(red, yellow, green);*/
 }
 
+.nav li {
+	
+	display:inline-block;
+}
+
 /*.nav-bar {
 	padding: 25px 50px 75px 100px;
 	position: fixed;
