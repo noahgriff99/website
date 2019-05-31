@@ -67,9 +67,7 @@ body {
   outline: 0 !important;
 }
 
-.container d-flex align-items-center flex-column{
-  color:#f4424e;
-}
+
 
 hr {
   box-sizing: content-box;
@@ -9885,6 +9883,11 @@ a.text-secondary:hover, a.text-secondary:focus {
 
 a.text-success:hover, a.text-success:focus {
   color: #19692c !important;
+}
+
+.test{
+  color: #f4424e;
+  background-color:#f4424e;
 }
 
 .text-info {
