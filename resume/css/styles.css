@@ -47,11 +47,26 @@ h1 {
 	background-color:green;
 }
 
-/*.nav-bar {
-	padding: 25px 50px 75px 100px;
-	position: fixed;
-	right: 0;
-	left: 0;
-	z-index: 999;
-	background-color:
+
+
+#some-div:hover  {
+  display: block;
+  color:green;
+}
+
+.exp-date{
+	overflow: hidden;
+    white-space: nowrap;
+}
+
+
+/*#some-element {
+  border: 1px solid #ccc;
+  display: none;
+  font-size: 10px;
+  margin-top: 10px;
+  padding: 5px;
+  text-transform: uppercase;
 }*/
+
+
