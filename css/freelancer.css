@@ -98,7 +98,7 @@ abbr[data-original-title] {
   text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
-  -webkit-text-decoration-skip-ink: none;
+  -webkit-text-decoratioskip-ink: none;
   text-decoration-skip-ink: none;
 }
 
